@@ -74,7 +74,7 @@ I am a skilled data analyst with a background in GIS, remote sensing, and agricu
 ## Education
 
 **Bachelor of Environmental Studies**  
-*Focus in Land Management, Minor in Soil Science*  
+*Focus: Land Management, Minor in Soil Science*  
 University of Manitoba, 2020  
 
 ## Certifications
