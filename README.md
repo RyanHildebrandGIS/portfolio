@@ -1,4 +1,4 @@
-# Ryan's Portfolio
+# Ryan Hildebrand's Portfolio
 
 ![Ryan's Headshot](Pictures/resize1.png)
 
