@@ -1,5 +1,11 @@
 title: Ryan Hildebrand
-logo: #C:/Users/ryanh/Pictures/resize1.png
-#description: Your description text
+logo: /Pictures/resize1.png
+# description: Your description text
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Custom image paths
+images:
+  lidar_1: /Pictures/Lidar%201.png
+  lidar_2: /Pictures/Lidar%202.png
+  dashboard: /Pictures/dashboard.png
