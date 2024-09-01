@@ -40,7 +40,7 @@ I am a skilled data analyst with a background in GIS, remote sensing, and agricu
 
 ### Agronomist / Farm Management Intern
 **Agriculture and Agri-Food Canada (AAFC)**  
-*Gained hands-on experience in farm management, crop monitoring, and agricultural data collection.*
+*Gained hands on experience in farm management, crop monitoring, and agricultural data collection.*
 
 - Assisted in field data collection and analysis.
 - Supported farm management activities and planning.
