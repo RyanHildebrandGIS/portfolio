@@ -15,7 +15,7 @@ I am a skilled data analyst with a background in GIS, remote sensing, and agricu
 - **Data Analysis and Visualization:** Power BI, Tableau, Excel
 - **Data Engineering:** FME data pipelines, ETL processes
 - **Project Management:** Task management, planning, execution
-- **Software:** ArcGIS, QGIS, ESRI Location Platform, FME, Microsoft Office Suite, Monday.com, Git, SiteScan
+- **Software:** ArcGIS, QGIS, ESRI Location Platform, FME, Microsoft Office Suite, Monday.com, SiteScan
 
 ## Experience
 
